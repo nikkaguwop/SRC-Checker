@@ -1,6 +1,6 @@
 # Source code checker
 
-Usage: Put the source code in the same directory as the source-code-checker.jar, then run the jar file.
+Usage: Put the source code in the same directory as the source-code-checker.jar, then open cmd promt and run "java -cp "source-code-scanner-1.0-SNAPSHOT.jar" dev.redvx.Main"
 
 Let me know if anything should be added
 
